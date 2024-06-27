@@ -9,11 +9,11 @@ Este algoritimo visa analisar o desempenho de diversos carros esportivos utiliza
 JavaScript
 
 ## Como Usar
-1 Clone este repositório:
+1- Clone este repositório:
 ```
 git clone https://github.com/lucasbizachi-dev/desempenho-carros-esportivos.git
 ```
-2 Navegue até o diretório do projeto:
+2- Navegue até o diretório do projeto:
 ```
 cd desempenho-carros-esportivos
 ```
