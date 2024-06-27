@@ -12,7 +12,7 @@ JavaScript
 1 Clone este repositório:
 <p>git clone https://github.com/lucasbizachi-dev/desempenho-carros-esportivos.git</p>
 2 Navegue até o diretório do projeto:
-<p></p>cd desempenho-carros-esportivos</p>
+<p>cd desempenho-carros-esportivos</p>
 
 ## Licença
 Este projeto está licenciado sob a MIT License.
